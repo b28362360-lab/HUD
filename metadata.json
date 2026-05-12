@@ -1,0 +1,6 @@
+{
+  "name": "FinExtract: AI Receipt Parser",
+  "description": "An expert financial data extractor that uses Gemini AI to analyze receipts and invoices with high accuracy.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": []
+}
